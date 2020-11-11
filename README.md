@@ -1,5 +1,5 @@
 # bbasaranAirlines
-Distributed Programming Course project which has been designed to understand key concepts of web programming. Based on: HTML, CSS, Javascript - JQuery, PHP, AJAX, MySQL
+Distributed Programming project which has been designed to understand key concepts of web programming. Based on: HTML, CSS, Javascript - JQuery, PHP, AJAX, MySQL
 
 In order to import the project in the right way, please do not forget to change the database credentials which is configured in the constructor of "Database" class in "subsystem.php".
 
