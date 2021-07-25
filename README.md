@@ -1,10 +1,10 @@
-# bbasaranAirlines
-Distributed Programming project which has been designed to understand key concepts of web programming. Based on: HTML, CSS, Javascript - JQuery, PHP, AJAX, MySQL
+# Airline Reservation System Design
+Distributed Programming project designed to understand key concepts of web programming. Tech stack: Javascript, JQuery, PHP, AJAX, MySQL, HTML, CSS
 
-In order to import the project in the right way, please do not forget to change the database credentials which is configured in the constructor of "Database" class in "subsystem.php".
+To import the project in the right way, please do not forget to change the database credentials which was configured in the constructor of *Database* class in *subsystem.php*.
 
 TODO:
-- Seat generation function "generateSeats" does not work properly in terms of layout.
+- The seat generation function *generateSeats* does not work properly in terms of layout.
 
 PROJECT DETAILS
 
